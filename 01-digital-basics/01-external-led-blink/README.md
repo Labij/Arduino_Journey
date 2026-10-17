@@ -6,7 +6,7 @@ This project demonstrates the design, simulation, and physical implementation of
 ---
 
 ### Demonstration
-- 🎥 **Video Walkthrough (YouTube):** [PASTE_YOUR_UNLISTED_YOUTUBE_LINK_HERE]
+- 🎥 **Video :** [(YouTube)](https://youtube.com/shorts/rS59I6UBgPE)
 - ⚡ **Interactive Simulation (Wokwi):** [Run Circuit Simulation on Wokwi](https://wokwi.com/projects/478141441634345985)
 
 ---
