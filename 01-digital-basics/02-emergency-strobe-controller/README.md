@@ -6,7 +6,7 @@ Building upon single-output blinking, this experiment controls two independent d
 ---
 
 ### Demonstrations
-- 🎥 **Video Walkthrough (YouTube):** [I WILL PASTE MY LINK OF YOUTUBE HERE SOON!]
+- 🎥 **Video Walkthrough (YouTube):** [https://youtu.be/nHHIiN7V3qA?si=LsToUvd7_-tUflEf]
 - ⚡ **Interactive Simulation (Wokwi):** [Run Strobe Simulation on Wokwi](https://wokwi.com/projects/478237007197260801)
 
 ---
