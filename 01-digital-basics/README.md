@@ -19,3 +19,9 @@ This module covers fundamental microcontroller GPIO (General Purpose Input/Outpu
 - **Current Protection:** Series resistance prevents short-circuit conditions and component failure.
 - **Common Ground (GND) Bus:** Tying multiple cathode return paths together on the breadboard's ground rail before routing back to the Arduino.
 - **Timing Modulation:** Changing device behavior entirely in software without altering a single wire.
+
+---
+
+3. **[03-traffic-light-controller](./03-traffic-light-controller/)**
+   - **Concepts:** Multi-state sequential timing, intersection safety logic, 3-channel digital output orchestration.
+   - **Hardware:** Arduino Pins 8 (Red), 7 (Yellow), 4 (Green), series resistors, common ground rail.
