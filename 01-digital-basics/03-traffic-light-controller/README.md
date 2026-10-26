@@ -6,7 +6,7 @@ This project simulates an autonomous 3-phase municipal traffic signal controller
 ---
 
 ### Demonstrations
-- 🎥 **Video Build & Walkthrough (YouTube):** [PASTE_YOUR_UNLISTED_YOUTUBE_LINK_HERE]
+- 🎥 **Video Build & Walkthrough (YouTube):** [https://youtu.be/zT5aJJqgpsA?si=NXj5CZMcpyKl-Xd7]
 - ⚡ **Interactive Simulation (Wokwi):** [Run Traffic Light on Wokwi](https://wokwi.com/projects/478825906885076993)
 
 ---
