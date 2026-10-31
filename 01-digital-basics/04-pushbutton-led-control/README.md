@@ -7,7 +7,7 @@ Up until now, my Arduino was basically blind and deaf—it could turn LEDs on, b
 
 ### Demonstrations
 - 🎥 **Bench Video (YouTube):** [PASTE_YOUR_UNLISTED_YOUTUBE_LINK_HERE]
-- ⚡ **Wokwi Simulation:** [Run my circuit on Wokwi](PASTE_YOUR_WOKWI_LINK_HERE)
+- ⚡ **Wokwi Simulation:** [Run my circuit on Wokwi](https://wokwi.com/projects/479421757507749889)
 
 ---
 
