@@ -14,13 +14,11 @@ This repository tracks every physical build, Wokwi circuit simulation, and sourc
 | Module | Focus Area | Status |
 | :--- | :--- | :--- |
 | **`01-digital-basics/`** | GPIO Digital Outputs, Inputs, Timing, & Current Limiting | In Progress |
-| *`02-analog-and-sensors/`* | ADC, Potentiometers, Light Sensors (LDR), Voltage Dividers | Upcoming |
-| *`03-actuators-and-motors/`* | Servos, DC Motors, Relays, & Transistor Drivers | Upcoming |
+
 
 ---
 
 ### 🛠️ Hardware & Toolchain
 - **Microcontroller:** Arduino Uno (Type-C)
-- **OS / Development:** Linux (Flatpak Arduino IDE 2)
 - **Simulation:** Wokwi
 - **Components:** Standard Breadboards, Carbon/Metal Film Resistors, LEDs, Diodes, and Sensors
